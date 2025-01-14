@@ -1,6 +1,6 @@
 [![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
 
-## Table of Contents: Build your own X
+## Build your own &lt;insert-technology-here&gt;
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
 
@@ -381,7 +381,7 @@ It's a great way to learn.
 
 #### Build your own `Visual Recognition System`
 
-* [**Python**: _Developing a License Plate Recognition System with Machine Learning in Python_](https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
+* [**Python**: _Developing a License Plate Recognition System with Machine Learning in Python_](https://medium.com/devcenter/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
 * [**Python**: _Building a Facial Recognition Pipeline with Deep Learning in Tensorflow_](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 
 #### Build your own `Voxel Engine`
@@ -398,7 +398,7 @@ It's a great way to learn.
 
 * [**C#**: _Writing a Web Server from Scratch_](https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch)
 * [**Node.js**: _Build Your Own Web Server From Scratch In JavaScript_](https://build-your-own.org/webserver/)
-* [**Node.js**: _Let's code a web server from scratch with NodeJS Streams_](https://www.codementor.io/ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji)
+* [**Node.js**: _Let's code a web server from scratch with NodeJS Streams_](https://www.codementor.io/@ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji)
 * [**Node.js**: _lets-build-express_](https://github.com/antoaravinth/lets-build-express)
 * [**PHP**: _Writing a webserver in pure PHP_](http://station.clancats.com/writing-a-webserver-in-pure-php/)
 * [**Python**: _A Simple Web Server_](http://aosabook.org/en/500L/a-simple-web-server.html)
@@ -460,7 +460,6 @@ It's a great way to learn.
 * [**Python**: _Write SMS-spam detector with Scikit-learn_](https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2)
 * [**Python**: _A Simple Content-Based Recommendation Engine in Python_](http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html)
 * [**Python**: _Stock Market Predictions with LSTM in Python_](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
-* [**Python**: _Build your own error-correction fountain code with Luby Transform Codes_](https://franpapers.com/en/algorithmic/2018-introduction-to-fountain-codes-lt-codes-with-python/)
 * [**Python**: _Building a simple Generative Adversarial Network (GAN) using Tensorflow_](https://blog.paperspace.com/implementing-gans-in-tensorflow/)
 * [**Python**: _Learn ML Algorithms by coding: Decision Trees_](https://lethalbrains.com/learn-ml-algorithms-by-coding-decision-trees-439ac503c9a4)
 * [**Python**: _JSON Decoding Algorithm_](https://github.com/cheery/json-algorithm)
